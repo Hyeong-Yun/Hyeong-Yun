@@ -13,13 +13,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/HTML-d11f1f?style=flat-square&logo=Html&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/HTML-d11f1f?style=flat&logo=square&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-0d30db?style=flat&logo=TypeScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Javascript-e3e017?style=flat&logo=TypeScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Styled-components-0dcadb?style=flat&logo=TypeScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-0d4edb?style=flat&logo=TypeScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-0e6e13?style=flat&logo=TypeScript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
 </p>
 <br><br>
 
