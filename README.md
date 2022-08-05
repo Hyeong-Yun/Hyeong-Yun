@@ -18,7 +18,7 @@
    <img src = "https://img.shields.io/badge/-Styled--components-yellowgreen?style=for-the-square&logo=styled-components&logoColor=white">&nbsp
   <img src = "https://img.shields.io/badge/Typescript-blue?style=for-the-square&logo=Typescript&logoColor=white">&nbsp
    <img src = "https://img.shields.io/badge/-Node.js-green?style=for-the-square&logo=Node.js&logoColor=white">&nbsp
- <img src = "https://img.shields.io/badge/-Express.js-orange?style=for-the-square&logo=Express.js&logoColor=white">&nbsp
+ <img src = "https://img.shields.io/badge/-Express-orange?style=for-the-square&logo=Express&logoColor=white">&nbsp
 </p>
 <br><br>
 
