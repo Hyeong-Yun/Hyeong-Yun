@@ -27,9 +27,9 @@
 <p align="center"> I’m currently learning 🌱</p>
 <p align="center">
  <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-square&logo=Python&logoColor=white"/></a>&nbsp 
- <img src="https://img.shields.io/badge/-Django-brightgreen?style=for-the-square&logo=Django&logoColor=white"/></a> 
- <img src="https://img.shields.io/badge/-NestJs-pink?style=for-the-square&logo=NestJs&logoColor=white"/></a> 
-
+ <img src="https://img.shields.io/badge/-Django-brightgreen?style=for-the-square&logo=Django&logoColor=white"/></a>&nbsp 
+ <img src="https://img.shields.io/badge/-NestJs-pink?style=for-the-square&logo=NestJs&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/-MongoDB-green?style=for-the-square&logo=MongoDB&logoColor=white"/></a>&nbsp 
 </p>
 <br><br>
 <!--
