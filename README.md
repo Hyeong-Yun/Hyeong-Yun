@@ -11,18 +11,17 @@
 <p align="center"> Techs that I've used mainly </p>
 
 <p align="center">
- <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
  <img src="https://img.shields.io/badge/-HTML-red?style=flat-square&logo=HTML&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=Html5&logoColor=white">&nbsp 
-<img src="https://img.shields.io/badge/Css-1572B6?style=for-the-badge&logo=Css3&logoColor=white">&nbsp  
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">  
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-square&logo=Html5&logoColor=white">&nbsp 
+<img src="https://img.shields.io/badge/Css-1572B6?style=for-the-square&logo=Css3&logoColor=white">&nbsp  
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-square&logo=JavaScript&logoColor=white">  
 </p>
 <br><br>
 
 <p align="center"> I’m currently learning 🌱</p>
 <p align="center">
+ <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> 
 </p>
 <br><br>
 <!--
