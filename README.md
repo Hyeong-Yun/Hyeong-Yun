@@ -28,6 +28,8 @@
 <p align="center">
  <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-square&logo=Python&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/-Django-brightgreen?style=for-the-square&logo=Django&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/-Nest.js-pink?style=for-the-square&logo=Nest&logoColor=white"/></a> 
+
 </p>
 <br><br>
 <!--
