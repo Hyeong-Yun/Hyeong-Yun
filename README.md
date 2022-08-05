@@ -11,8 +11,8 @@
 <p align="center"> Techs that I've used mainly </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/Html-d11f1f?style=flat-square&logo=HTML&logoColor=white"/></a>&nbsp 
+ <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+ <img src="https://img.shields.io/badge/-HTML-red?style=flat-square&logo=HTML&logoColor=white"/></a>&nbsp 
  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
 </p>
 <br><br>
